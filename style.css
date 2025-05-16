@@ -10,7 +10,7 @@ body{
 }
 input[type=text],
 input[type=text]:focus{
-    color:#fff;
+    color:black;
     border: none;
     background: rgba(red, green, blue, alpha);
 }
