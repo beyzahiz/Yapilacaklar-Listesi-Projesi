@@ -1,0 +1,22 @@
+body{
+    background:deepskyblue;
+}
+::placeholder{
+    color:#fff !important;
+}
+
+.container{
+    max-width: 400px;
+}
+input[type=text],
+input[type=text]:focus{
+    color:#fff;
+    border: none;
+    background: rgba(red, green, blue, alpha);
+}
+.todos li{
+    background: lightblue;
+}
+.delete{
+    cursor:pointer;
+}
